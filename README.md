@@ -16,7 +16,7 @@ pip install streamlit feedparser nltk
 streamlit run app.py
 ```
 
-## Deployed site :
+## Deployed site
 https://financial-news-sentiment.streamlit.app/
 
 ![WhatsApp Image 2025-04-01 at 00 27 08_582e8745](https://github.com/user-attachments/assets/3a92ec95-b9e5-4852-b203-41c1f45a8bd2)
